@@ -1,0 +1,55 @@
+.auth-container {
+  background: #1e1e1e;
+  color: white;
+  width: 300px;
+  margin: 100px auto;
+  padding: 2rem;
+  border-radius: 10px;
+  box-shadow: 0 0 10px #333;
+}
+
+.auth-container form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.auth-container input {
+  padding: 10px;
+  background: #2c2c2c;
+  border: none;
+  color: white;
+  border-radius: 5px;
+}
+
+.auth-container button {
+  padding: 10px;
+  background: #4caf50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.auth-container p {
+  font-size: 0.9rem;
+  text-align: center;
+  cursor: pointer;
+  color: #ccc;
+}
+
+.bubble {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 10px;
+  background: #333;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+
+.avatar {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}

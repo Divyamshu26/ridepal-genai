@@ -1,0 +1,30 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #343541;
+  padding: 12px 20px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.3);
+}
+
+.navbar-logo {
+  color: #fff;
+  font-weight: bold;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.navbar-right {
+  display: flex;
+  gap: 20px;
+}
+
+.nav-item {
+  color: #ddd;
+  text-decoration: none;
+  font-size: 16px;
+}
+
+.nav-item:hover {
+  color: #fff;
+}

@@ -1,0 +1,77 @@
+.chat-bubble {
+  background-color: #2f3136;
+  color: #ffffff;
+  padding: 10px 14px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  position: relative;
+  max-width: 80%;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.chat-bubble.user {
+  background-color: #40414f;
+  align-self: flex-end;
+  border-bottom-right-radius: 0;
+}
+
+.chat-bubble.assistant {
+  background-color: #343541;
+  align-self: flex-start;
+  border-bottom-left-radius: 0;
+}
+
+.bubble-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 13px;
+  color: #b3b3b3;
+  margin-bottom: 4px;
+}
+
+.bubble-message {
+  font-size: 15px;
+  white-space: pre-wrap;
+}
+
+.bubble-avatar {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+.bubble-avatar img {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+}
+.bubble-avatar.user {
+  background-color: #40414f;
+}
+.bubble-avatar.assistant {
+  background-color: #343541;
+}
+.bubble-avatar img {
+  object-fit: cover;
+}
+.bubble-avatar-placeholder {
+  background-color: #40414f;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}
+.bubble-avatar-placeholder img {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+}
+.bubble-avatar-placeholder.assistant {
+  background-color: #343541;
+}
+.bubble-avatar-placeholder img {
+  object-fit: cover;
+}
+.bubble-avatar-placeholder img {
+  object-fit: cover;
+}
