@@ -1,0 +1,102 @@
+ride_id,source,destination,distance_km,time_of_day,surge_multiplier,fare,date,time,vehicle_model,vehicle_color
+101,Miyapur,Hitech City,15.6,night,1.1,170,01/04/2025,21:31,Hyundai Santro,Yellow
+102,Gachibowli,Panjagutta,24.5,night,1.1,270,01/04/2025,20:32,Hyundai Alcazar,Orange
+103,Begumpet,Jubilee Hills,16.9,night,2.0,340,02/04/2025,23:27,Toyota Etios,Yellow
+104,Hitech City,Ameerpet,7.2,evening,1.1,80,03/04/2025,19:06,Renault Triber,Blue
+105,Miyapur,Hitech City,11.8,night,1.0,120,04/04/2025,23:11,Renault Kwid,White
+106,Kukatpally,Gachibowli,9.5,afternoon,1.5,150,04/04/2025,14:03,Hyundai Venue,White
+107,Jubilee Hills,Secunderabad,19.1,morning,1.2,230,05/04/2025,08:57,Honda Amaze,Black
+108,Panjagutta,LB Nagar,13.3,night,2.0,270,05/04/2025,23:09,Ford Aspire,Grey
+109,LB Nagar,Hitech City,18.9,evening,1.5,280,06/04/2025,18:05,Toyota Innova,Blue
+110,Charminar,Kondapur,6.4,morning,1.0,70,07/04/2025,08:34,Maruti Dzire,White
+111,Kukatpally,Ameerpet,10.8,afternoon,1.1,120,07/04/2025,12:20,Honda City,Silver
+112,Madhapur,Charminar,8.7,night,2.0,180,08/04/2025,20:15,Tata Punch,Red
+113,Hitech City,Banjara Hills,4.9,evening,1.2,60,08/04/2025,18:30,Maruti Swift,White
+114,LB Nagar,Secunderabad,14.2,morning,1.0,140,09/04/2025,09:15,Skoda Rapid,White
+115,Charminar,Miyapur,22.3,night,2.2,490,09/04/2025,22:41,Hyundai Verna,Black
+116,Panjagutta,Kondapur,5.5,afternoon,1.5,90,10/04/2025,12:50,Honda WR-V,Grey
+117,Begumpet,Jubilee Hills,10.2,night,1.1,110,10/04/2025,21:14,Tata Tiago,White
+118,Gachibowli,Hitech City,7.6,morning,1.0,80,11/04/2025,08:17,Hyundai i10,Blue
+119,Miyapur,Charminar,20.1,evening,1.5,300,11/04/2025,17:46,Toyota Glanza,Silver
+120,Kondapur,LB Nagar,18.7,night,2.0,370,12/04/2025,22:10,Renault Duster,Red
+121,Banjara Hills,Gachibowli,12.6,morning,1.0,150,13/04/2025,09:02,Maruti Baleno,White
+122,Ameerpet,Miyapur,14.8,afternoon,1.3,210,13/04/2025,14:45,Hyundai Venue,Red
+123,Jubilee Hills,Charminar,10.1,evening,1.4,160,13/04/2025,19:22,Honda Amaze,Grey
+124,Hitech City,Begumpet,9.9,night,2.0,200,13/04/2025,22:50,Toyota Etios,Silver
+125,Secunderabad,Kukatpally,7.7,morning,1.1,100,14/04/2025,07:40,Ford Figo,White
+126,LB Nagar,Ameerpet,16.3,afternoon,1.3,240,14/04/2025,13:55,Tata Indigo,Blue
+127,Kondapur,Charminar,18.6,night,2.1,380,14/04/2025,21:18,Hyundai i20,Black
+128,Panjagutta,Hitech City,6.8,evening,1.2,85,15/04/2025,18:10,Maruti Dzire,White
+129,Gachibowli,Jubilee Hills,11.0,afternoon,1.3,160,15/04/2025,13:33,Tata Punch,Grey
+130,Madhapur,Begumpet,9.4,night,1.4,140,15/04/2025,20:40,Renault Triber,Red
+131,Miyapur,LB Nagar,23.5,morning,1.0,250,16/04/2025,08:05,Toyota Glanza,Blue
+132,Ameerpet,Kukatpally,8.9,afternoon,1.2,110,16/04/2025,13:11,Hyundai Verna,White
+133,Banjara Hills,Panjagutta,5.7,evening,1.3,80,16/04/2025,17:45,Maruti Alto,Silver
+134,Charminar,Hitech City,20.3,night,2.0,410,16/04/2025,21:30,Ford Aspire,Black
+135,LB Nagar,Gachibowli,22.0,morning,1.0,240,17/04/2025,08:42,Honda City,Grey
+136,Secunderabad,Madhapur,14.7,afternoon,1.3,190,17/04/2025,12:25,Hyundai i10,Red
+137,Kukatpally,Charminar,19.1,night,1.8,330,17/04/2025,23:14,Tata Tiago,White
+138,Jubilee Hills,Kondapur,6.6,evening,1.2,90,18/04/2025,18:00,Renault Kwid,Silver
+139,Hitech City,Ameerpet,7.9,night,1.3,110,18/04/2025,21:48,Hyundai Creta,Blue
+140,Panjagutta,Banjara Hills,4.5,morning,1.0,60,19/04/2025,09:00,Tata Nexon,White
+141,Kondapur,Miyapur,13.0,afternoon,1.1,140,19/04/2025,13:27,Maruti Swift,Black
+142,Ameerpet,Gachibowli,15.2,evening,1.4,210,19/04/2025,18:32,Honda WR-V,Grey
+143,LB Nagar,Begumpet,17.4,night,2.0,360,19/04/2025,22:55,Toyota Innova,Silver
+144,Secunderabad,Jubilee Hills,10.9,morning,1.0,120,20/04/2025,08:30,Hyundai Santro,White
+145,Madhapur,Charminar,16.1,afternoon,1.2,180,20/04/2025,13:45,Skoda Rapid,Blue
+146,Kukatpally,Hitech City,8.6,evening,1.3,110,20/04/2025,17:55,Maruti Baleno,Red
+147,Banjara Hills,LB Nagar,19.3,night,1.7,310,20/04/2025,20:22,Ford Figo,White
+148,Miyapur,Secunderabad,21.7,morning,1.0,230,21/04/2025,07:59,Renault Duster,Silver
+149,Begumpet,Ameerpet,5.2,afternoon,1.1,70,21/04/2025,12:13,Honda Amaze,Black
+150,Gachibowli,Kondapur,6.3,evening,1.2,90,21/04/2025,17:45,Hyundai Alcazar,Blue
+151,Panjagutta,Charminar,11.5,night,2.0,240,14/06/2025,22:00,Tata Indigo,White
+152,Madhapur,Kukatpally,9.1,morning,1.0,100,22/04/2025,09:20,Hyundai Venue,Grey
+153,Jubilee Hills,Miyapur,17.8,afternoon,1.4,260,22/04/2025,14:10,Toyota Etios,Red
+154,Charminar,Banjara Hills,12.7,evening,1.3,170,22/04/2025,18:35,Tata Tiago,White
+155,Ameerpet,Hitech City,9.6,night,1.5,140,22/04/2025,21:10,Maruti Dzire,Silver
+156,Kukatpally,Gachibowli,8.3,morning,1.0,90,23/04/2025,08:47,Honda WR-V,Blue
+157,Secunderabad,Kondapur,18.0,afternoon,1.2,230,23/04/2025,13:22,Renault Triber,Red
+158,LB Nagar,Madhapur,20.6,night,2.0,410,23/04/2025,23:05,Toyota Glanza,White
+159,Banjara Hills,Panjagutta,5.3,evening,1.1,70,24/04/2025,18:15,Hyundai i10,Grey
+160,Miyapur,Ameerpet,14.4,morning,1.0,150,24/04/2025,09:00,Tata Punch,Silver
+161,Hitech City,Charminar,22.0,afternoon,1.3,300,24/04/2025,13:40,Ford Aspire,Black
+162,Gachibowli,Begumpet,11.1,evening,1.2,140,24/04/2025,17:55,Maruti Alto,Blue
+163,Charminar,Kukatpally,16.6,night,1.9,330,24/04/2025,22:20,Toyota Innova,White
+164,Kondapur,LB Nagar,19.4,morning,1.0,200,25/04/2025,08:35,Hyundai Creta,Silver
+165,Ameerpet,Secunderabad,9.7,afternoon,1.1,110,25/04/2025,13:00,Honda City,White
+166,Jubilee Hills,Madhapur,4.6,evening,1.2,60,25/04/2025,18:25,Tata Nexon,Red
+167,Kukatpally,Charminar,20.2,night,2.0,420,25/04/2025,21:40,Renault Duster,Blue
+168,Begumpet,Gachibowli,10.4,morning,1.0,120,26/04/2025,09:30,Hyundai Santro,Grey
+169,Miyapur,Panjagutta,13.8,afternoon,1.3,190,26/04/2025,13:30,Maruti Swift,White
+170,Hitech City,Jubilee Hills,6.7,evening,1.1,90,26/04/2025,18:05,Hyundai Verna,Silver
+171,Ameerpet,Charminar,15.0,night,1.6,260,26/04/2025,21:15,Tata Indigo,Blue
+172,LB Nagar,Kukatpally,19.7,morning,1.0,210,27/04/2025,08:25,Renault Kwid,Red
+173,Gachibowli,Madhapur,5.9,afternoon,1.1,70,27/04/2025,13:40,Toyota Glanza,White
+174,Secunderabad,Ameerpet,8.5,evening,1.2,100,27/04/2025,18:50,Hyundai i20,Silver
+175,Kondapur,Banjara Hills,17.2,night,1.7,310,27/04/2025,21:35,Ford Aspire,Grey
+176,Banjara Hills,Hitech City,9.0,morning,1.0,100,28/04/2025,09:45,Honda WR-V,Blue
+177,Miyapur,LB Nagar,23.4,afternoon,1.3,310,28/04/2025,14:20,Hyundai Alcazar,Red
+178,Jubilee Hills,Gachibowli,12.2,evening,1.4,190,28/04/2025,17:50,Toyota Etios,White
+179,Ameerpet,Panjagutta,6.3,night,1.3,90,28/04/2025,20:30,Maruti Dzire,Silver
+180,Kukatpally,Secunderabad,15.6,morning,1.0,160,29/04/2025,09:10,Hyundai i10,White
+181,Charminar,Kondapur,20.7,afternoon,1.4,300,29/04/2025,14:00,Tata Punch,Red
+182,Gachibowli,Jubilee Hills,11.4,evening,1.2,140,29/04/2025,17:20,Honda Amaze,Grey
+183,Madhapur,Hitech City,4.4,night,1.1,60,29/04/2025,21:10,Toyota Innova,White
+184,Begumpet,Kukatpally,12.9,morning,1.0,140,30/04/2025,08:40,Tata Tiago,Silver
+185,Banjara Hills,Miyapur,18.3,afternoon,1.2,220,30/04/2025,13:55,Maruti Baleno,Red
+186,Ameerpet,Gachibowli,14.6,evening,1.3,200,30/04/2025,18:35,Hyundai Verna,White
+187,Charminar,Begumpet,10.5,night,1.6,180,30/04/2025,21:15,Ford Aspire,Blue
+188,Secunderabad,Kondapur,13.8,morning,1.0,150,31/04/2025,08:10,Hyundai Creta,Grey
+189,Miyapur,Jubilee Hills,16.5,afternoon,1.3,240,31/04/2025,14:25,Maruti Dzire,White
+190,Panjagutta,Hitech City,5.7,evening,1.2,80,31/04/2025,17:50,Tata Indigo,Red
+191,Kukatpally,Madhapur,9.6,night,1.4,130,31/04/2025,21:30,Honda WR-V,Silver
+192,Banjara Hills,Ameerpet,11.7,morning,1.0,130,01/05/2025,09:30,Toyota Glanza,White
+193,Gachibowli,Panjagutta,8.2,afternoon,1.1,110,01/05/2025,13:45,Renault Kwid,Blue
+194,LB Nagar,Secunderabad,17.3,evening,1.5,270,01/05/2025,18:40,Tata Punch,Grey
+195,Charminar,Miyapur,21.5,night,2.0,420,01/05/2025,22:30,Hyundai Santro,Red
+196,Secunderabad,Banjara Hills,14.9,morning,1.0,160,02/05/2025,08:20,Honda City,White
+197,Ameerpet,Kukatpally,10.1,afternoon,1.2,130,02/05/2025,12:40,Maruti Swift,Silver
+198,Kondapur,Madhapur,6.0,evening,1.1,70,02/05/2025,18:10,Ford Figo,Blue
+199,Miyapur,LB Nagar,23.1,night,2.0,450,02/05/2025,21:45,Toyota Etios,Grey
+200,Gachibowli,Hitech City,5.8,afternoon,1.0,80,03/05/2025,13:00,Hyundai Venue,White
+
