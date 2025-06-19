@@ -23,29 +23,6 @@ RidePal is an AI-integrated ride assistant web application designed to help user
 |----------|---------|-----------|---------|
 | React.js | Flask   | Gemini API, Pandas | Custom CSS (Dark Mode) |
 
----
-
-## 📂 Project Structure
-
-ridepal-genai/
-│
-├── backend/
-│ ├── app.py # Flask backend
-│ ├── data/ride.csv # Ride data (used for lookup)
-│ ├── database/ # User history database
-│ └── ...
-│
-├── frontend/
-│ ├── public/
-│ ├── src/
-│ │ ├── components/ # Navbar, Chat, etc.
-│ │ ├── pages/ # Home, About, Contact, Login
-│ │ ├── styles/ # Custom dark mode CSS
-│ │ └── App.jsx
-│ └── ...
-│
-└── README.md # Project description
-
 
 ---
 
